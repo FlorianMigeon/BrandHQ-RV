@@ -3578,7 +3578,7 @@ figcaption {
 }
 
 .link-2 {
-  display: block;
+  display: none;
   margin-right: 10px;
 }
 
@@ -3724,6 +3724,7 @@ figcaption {
 }
 
 .image-9 {
+  width: 100%;
   border: 1px solid #000;
 }
 
